@@ -1,0 +1,171 @@
+* {
+    font-family: cursive;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.section {
+    background-color: rgb(54, 22, 95);
+    height: 660px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    position: absolute;
+    color: white;
+}
+
+.nav {
+    position: absolute;
+    margin: 37px 460px;
+    width: 450px;
+}
+
+.btn {
+    margin: 20px;
+    margin: 26px 1140px;
+    background-color: rgb(255, 0, 128);
+    border: 2px solid rgb(255, 0, 128);
+    color: white;
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+
+}
+
+.btn:hover {
+    background-color: rgb(54, 22, 95);
+    border: 2px solid rgb(54, 22, 95);
+}
+
+.nav a {
+    text-decoration: none;
+    margin: 48px;
+    color: white;
+}
+
+.nav a:hover {
+    color: rgb(255, 0, 128);
+}
+
+.content {
+    width: 513px;
+    margin-top: 70px;
+}
+
+.img img {
+    height: 417px;
+    width: 332px;
+    border-radius: 30px;
+    float: right;
+    margin: -357px 140px;
+}
+
+.colr {
+    color: white;
+    display: inline-block;
+}
+
+.clr {
+    color: rgb(209, 190, 232);
+}
+
+.lorem {
+    width: 208px;
+    margin: 0px 85px;
+}
+
+.button {
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: rgb(255, 0, 128);
+    border: 2px solid rgb(255, 0, 128);
+    color: white;
+    margin: 21px 87px;
+}
+
+.button:hover {
+    background-color: rgb(54, 22, 95);
+    border: 2px solid rgb(54, 22, 95);
+}
+
+.clr1 {
+    color: rgb(54, 22, 95);
+}
+
+.colr2 {
+    color: rgb(113, 72, 164);
+}
+
+.image img {
+    height: 230px;
+    width: 390px;
+    border-radius: 30px;
+    float: right;
+    margin: -276px -525px;
+}
+
+.img1 img {
+    height: 94px;
+    width: 154px;
+    position: absolute;
+    margin: 50px 80px;
+    border-radius: 30px;
+}
+
+.img2 img {
+    height: 94px;
+    width: 154px;
+    margin: 50px 300px;
+    border-radius: 30px;
+}
+
+.img3 img {
+    height: 170px;
+    width: 374px;
+    margin: -39px 79px;
+    border-radius: 30px;
+}
+
+.section3 {
+    height: 360px;
+    height: 400px;
+}
+
+.left {
+    float: right;
+    margin: -281px 151px;
+}
+
+footer {
+    background-color: rgb(54, 22, 95);
+    height: 270px;
+}
+
+.name img {
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+    margin: 50px 80px;
+}
+
+.lower p {
+    margin: -29px 42px;
+    display: inline-block;
+    color: white;
+}
+
+.lower2 {
+    display: inline-block;
+    width: 559px;
+    float: right;
+    margin: -185px 140px;
+    color: white;
+}
